@@ -8,7 +8,7 @@ Let's go down the rabbit hole.
 
 ## **Project: swarmengage - The Autonomous Social Media Strategist**
 
-### **The Core Idea (The "Why")**
+### **The Core Idea **
 
 The fundamental problem we're solving is the **authenticity paradox** of social media. Platforms like Reddit reward genuine, human interaction, but the scale required for meaningful brand building is impossible for busy professionals and brands to achieve manually.
 
@@ -18,15 +18,15 @@ We are building a **three-sided marketplace** that solves this:
 2.  **Executors (The Supply):** Real Reddit users who provide the human accounts and the final "publish" action, earning money for their participation.
 3.  **Agent Developers (The Force Multipliers):** An open-source community that builds specialized AI agents for our platform, creating a scalable intelligence layer.
 
-Our platform is not a "bot." It's an **intelligent, learning ecosystem** that augments human strategy with AI execution, with a human always in the loop for final approval.
+Our platform is an **intelligent, learning ecosystem** that augments human strategy with AI execution, with a human always in the loop for final approval.
 
 ---
 
 ### **The User Onboarding Flows (The First Impression)**
 
-The onboarding experience is our most critical feature. It's where we prove we're not just another spam tool. There are two main user journeys.
+The onboarding experience is our most critical feature. There are two main user journeys.
 
-#### **1. The B2B Client Onboarding Flow (The "Magic" Experience)**
+#### **1. The B2B Client Onboarding Flow**
 
 **Goal:** To "wow" the client within the first 5 minutes by demonstrating immediate, tangible value and positioning us as a strategic partner.
 
@@ -50,7 +50,7 @@ The onboarding experience is our most critical feature. It's where we prove we'r
     *   The user confirms their choices. The system informs them that their 1-week free trial is active and that an agent is being assigned from our "vetted swarm of high-tier executors."
     *   **The Logic:** The backend's **Orchestrator** selects the best available, qualified Executor to act as the **Campaign Lead Agent**. This is a critical abstraction; the client never worries about *who* is doing the work, only that it's being done by a trusted agent.
 
-#### **2. The Executor Onboarding Flow (The Gamified Journey)**
+#### **2. The Executor Onboarding Flow**
 
 **Goal:** To onboard real Reddit users, train them, and create a motivated, reliable swarm.
 
