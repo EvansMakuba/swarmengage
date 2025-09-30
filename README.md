@@ -6,7 +6,7 @@ So, here is the project README I promised. This is how I am thinking about the p
 
 Let's go down the rabbit hole.
 
-## **Project: AgentSaaS v2 - The Autonomous Social Media Strategist**
+## **Project: swarmengage - The Autonomous Social Media Strategist**
 
 ### **The Core Idea (The "Why")**
 
